@@ -2,6 +2,6 @@
 
 # Instal docker on debian based systems
 ``` bash
-https://raw.githubusercontent.com/SPSMB-DavidSec/Docker-Examples/refs/heads/main/install-docker.sh
+curl https://raw.githubusercontent.com/SPSMB-DavidSec/Docker-Examples/refs/heads/main/install-docker.sh | sh
 
 ```
